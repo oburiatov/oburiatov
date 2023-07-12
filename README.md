@@ -11,6 +11,8 @@
 </a>
 <br><br>
 
+---
+
 ### My Tech Stack <br>
 
 #### Big Data tools
